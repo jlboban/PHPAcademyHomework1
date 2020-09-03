@@ -14,13 +14,13 @@
     <div id="navbar-basic" class="navbar-menu">
         <div class="navbar-start">
             <a class="navbar-item" href="index.php">
-                Home
+                <i class="fas fa-home" style="padding-right: 0.25rem"></i>Home
             </a>
             <a class="navbar-item" href="operators.php">
-                Operators
+                <i class="fas fa-code" style="padding-right: 0.25rem"></i>Operators
             </a>
             <a class="navbar-item" href="about.php">
-                About
+                <i class="fas fa-question" style="padding-right: 0.25rem"></i>About
             </a>
         </div>
     </div>
