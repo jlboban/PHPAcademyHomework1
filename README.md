@@ -19,3 +19,8 @@
 3. When your homework is approved, merge it to the _master_ branch.
 
 ### Made with Bulma CSS and PHP 7.4.
+
+### Images
+![Home Screenshot](https://github.com/jlboban/PHPAcademyHomework1/blob/develop/Images/Home.png?raw=true)
+![About Screenshot](https://github.com/jlboban/PHPAcademyHomework1/blob/develop/Images/About.png?raw=true)
+![Operators Screenshot](https://github.com/jlboban/PHPAcademyHomework1/blob/develop/Images/Operators.png?raw=true)
